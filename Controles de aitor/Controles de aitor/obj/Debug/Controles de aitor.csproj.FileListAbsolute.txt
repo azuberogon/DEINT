@@ -1,0 +1,16 @@
+C:\Users\chuna\Documents\DEIN\DEIN\Controles de aitor\Controles de aitor\bin\Debug\Controles de aitor.exe.config
+C:\Users\chuna\Documents\DEIN\DEIN\Controles de aitor\Controles de aitor\bin\Debug\Controles de aitor.exe
+C:\Users\chuna\Documents\DEIN\DEIN\Controles de aitor\Controles de aitor\bin\Debug\Controles de aitor.pdb
+C:\Users\chuna\Documents\DEIN\DEIN\Controles de aitor\Controles de aitor\obj\Debug\Controles de aitor.csproj.AssemblyReference.cache
+C:\Users\chuna\Documents\DEIN\DEIN\Controles de aitor\Controles de aitor\obj\Debug\MainWindow.g.cs
+C:\Users\chuna\Documents\DEIN\DEIN\Controles de aitor\Controles de aitor\obj\Debug\App.g.cs
+C:\Users\chuna\Documents\DEIN\DEIN\Controles de aitor\Controles de aitor\obj\Debug\Controles de aitor_MarkupCompile.cache
+C:\Users\chuna\Documents\DEIN\DEIN\Controles de aitor\Controles de aitor\obj\Debug\Controles de aitor_MarkupCompile.lref
+C:\Users\chuna\Documents\DEIN\DEIN\Controles de aitor\Controles de aitor\obj\Debug\MainWindow.baml
+C:\Users\chuna\Documents\DEIN\DEIN\Controles de aitor\Controles de aitor\obj\Debug\Controles de aitor.g.resources
+C:\Users\chuna\Documents\DEIN\DEIN\Controles de aitor\Controles de aitor\obj\Debug\Controles_de_aitor.Properties.Resources.resources
+C:\Users\chuna\Documents\DEIN\DEIN\Controles de aitor\Controles de aitor\obj\Debug\Controles de aitor.csproj.GenerateResource.cache
+C:\Users\chuna\Documents\DEIN\DEIN\Controles de aitor\Controles de aitor\obj\Debug\Controles de aitor.csproj.CoreCompileInputs.cache
+C:\Users\chuna\Documents\DEIN\DEIN\Controles de aitor\Controles de aitor\obj\Debug\Controles de aitor.exe
+C:\Users\chuna\Documents\DEIN\DEIN\Controles de aitor\Controles de aitor\obj\Debug\Controles de aitor.pdb
+C:\Users\chuna\Documents\DEIN\DEIN\Controles de aitor\Controles de aitor\obj\Debug\Controles de aitor_Content.g.cs
