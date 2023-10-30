@@ -1,0 +1,7 @@
+C:\Users\chuna\Documents\DEINHSS\DEINT\Navegación de  aitor\Navegación de aitor\Navegación de aitor\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\chuna\Documents\DEINHSS\DEINT\Navegación de  aitor\Navegación de aitor\Navegación de aitor\obj\Debug\net6.0-windows\vistas\Page1.g.cs
+C:\Users\chuna\Documents\DEINHSS\DEINT\Navegación de  aitor\Navegación de aitor\Navegación de aitor\obj\Debug\net6.0-windows\vistas\Window1.g.cs
+C:\Users\chuna\Documents\DEINHSS\DEINT\Navegación de  aitor\Navegación de aitor\Navegación de aitor\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\chuna\Documents\DEINHSS\DEINT\Navegación de  aitor\Navegación de aitor\Navegación de aitor\obj\Debug\net6.0-windows\Navegación de aitor_MarkupCompile.cache
+C:\Users\chuna\Documents\DEINHSS\DEINT\Navegación de  aitor\Navegación de aitor\Navegación de aitor\obj\Debug\net6.0-windows\Navegación de aitor_MarkupCompile.lref
+C:\Users\chuna\Documents\DEINHSS\DEINT\Navegación de  aitor\Navegación de aitor\Navegación de aitor\obj\Debug\net6.0-windows\vistas\Window2.g.cs
